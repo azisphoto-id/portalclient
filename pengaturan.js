@@ -5,7 +5,7 @@
 
 const CONFIG_APP = {
   // 1. Nama Studio Foto Anda (Akan tampil di header dan portal klien)
-    namaVendor: "-",
+    namaVendor: "Azisphoto",
 
     // 2. Google Drive API Key (Penting agar galeri bisa memuat foto)
     googleApiKey: "AIzaSyBnS2uGzzZZOe-QCBSvTa0XOOlI_UW-_tc",
